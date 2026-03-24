@@ -20,14 +20,6 @@ I love **hands-on challenges** and pushing my skills by exploring real systems�
 
 ---
 
-## 🛠️ Tools & Skills
-| Tool / Skill | Experience |
-|-------------|------------|
-| Linux (Parrot OS) | Daily use in labs |
-| Networking | TCP/IP, DNS, HTTP(S) fundamentals |
-
----
-
 ## 📂 Projects
 - **TryHackMe Writeups**: [Click here to open the project](https://github.com/Zerium-99/tryhackme-writeups) – fully documented, step-by-step solutions. Here I solve challenges on tryhackme, explaining everything.
 - **Home Lab**: [Click here to open the project](https://github.com/Zerium-99/My-Homelab) – custom vulnerable environment I built for practicing pentesting  
