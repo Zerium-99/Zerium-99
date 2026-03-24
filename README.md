@@ -8,7 +8,6 @@ I love **hands-on challenges** and pushing my skills by exploring real systemsâ€
 
 ## ðŸŽ¯ Goals
 - Build **advanced practical skills** in penetration testing  
-- Create a **portfolio of real-world exploits and labs**  
 - Grow as a **cybersecurity professional** from a young age  
 
 ---
