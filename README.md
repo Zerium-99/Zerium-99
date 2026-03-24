@@ -30,5 +30,5 @@ I love **hands-on challenges** and pushing my skills by exploring real systems�
 ---
 
 ## 📂 Projects
-- **TryHackMe Writeups**: [https://github.com/Zerium-99/tryhackme-writeups](Click) – fully documented, step-by-step solutions  
+- **TryHackMe Writeups**: (nigga)[https://github.com/Zerium-99/tryhackme-writeups] – fully documented, step-by-step solutions  
 - **Home Lab**: [link] – custom vulnerable environment I built for practicing pentesting  
