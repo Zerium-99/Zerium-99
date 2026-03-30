@@ -1,4 +1,6 @@
 # 👋 Hey, I'm Zerium
+![Tryhackme](https://img.shields.io/badge/Tryhackme-My%20profile-profile
+)
 
 ## 🧠 About Me
 I'm an **aspiring Red Teamer** passionate about **cybersecurity and offensive security**.  
