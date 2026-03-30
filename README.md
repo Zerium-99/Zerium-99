@@ -16,10 +16,11 @@ I love **hands-on challenges** and pushing my skills by exploring real systemsâ€
 ---
 
 ## ðŸ’» What I'm Doing
-- Studying on platforms like **TryHackme and HackTheBox**, doing CTFs.
-- Writing **detailed, step-by-step writeups** with screenshots and code snippets, documenting everything I do: I explain how I did it, why I did, and what I learned from that.
-- Experimenting with **vulnerable lab environments** I set up myself (full control over targets, networks, and payloads)  
-- Tracking progress and learning with **personal notes and GitHub repos**  
+- Studying on platforms like TryHackMe and Hack The Box, completing CTF challenges  
+- Writing detailed, step-by-step writeups with screenshots and code snippets  
+- Explaining how and why each attack works, and what I learned from it  
+- Building and experimenting with my own vulnerable lab environments  
+- Tracking my progress through GitHub repositories and personal notes 
 
 ---
 
