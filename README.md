@@ -1,6 +1,14 @@
 # 👋 Hey, I'm Zerium
-[![TryhackmeProfile](https://img.shields.io/badge/Tryhackme-My%20profile-profile
-)](https://tryhackme.com/p/Zerium.px)
+<div align="left">
+  <a href="https://tryhackme.com/p/Zerium.px" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  </a>
+  <a href="zerium.px" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
 
 
 ## 🧠 About Me
