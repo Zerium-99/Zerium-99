@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Zerium
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Zerium.px-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/zerium.px)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Zerium.px-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Zerium.px)
 
 ###
 
