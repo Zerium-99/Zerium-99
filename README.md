@@ -28,7 +28,7 @@ I love **hands-on challenges** and pushing my skills by exploring real systems�
 
 
 
-## 📂 Projects
+## 📂 Portfolio
 
 | Project Name           | Description                                                                                 | Link                                                                 |
 |------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
