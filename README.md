@@ -34,4 +34,4 @@ I love **hands-on challenges** and pushing my skills by exploring real systemsâ€
 |------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | TryHackMe Writeups     | Fully documented CTF Challenges, explaining everything.                                     | [Open Project](https://github.com/Zerium-99/tryhackme-writeups)      |
 | Home Lab               | Custom vulnerable environment I built for practicing pentesting.                            | [Open Project](https://github.com/Zerium-99/My-Homelab)              |
-| Lithium                |  Beef-XSS Tunneling automation tool via NGROK                                               | [Open Project](https://github.com/Zerium-99/Lithium)
+| Lithium                |  BeEF-XSS Tunneling automation tool via Ngrok                                               | [Open Project](https://github.com/Zerium-99/Lithium)
