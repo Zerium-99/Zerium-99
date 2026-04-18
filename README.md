@@ -28,6 +28,37 @@ I love **hands-on challenges** and pushing my skills by exploring real systems�
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 💫 About Me:
+I'm an **aspiring Red Teamer** passionate about **cybersecurity and offensive security**.  <br>I love **hands-on challenges** and pushing my skills by exploring real systems—no theory-only learning here. 
+
+
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Zerium-99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Zerium-99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zerium-99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Zerium-99&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ## 📂 Portfolio
 Here are my most succesfull projects:
 
