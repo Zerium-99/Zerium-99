@@ -17,21 +17,21 @@ I love **hands-on challenges** and pushing my skills by exploring real systems�
 
 ---
 
-## 💻 What I'm Doing
-- Studying on platforms like TryHackMe and Hack The Box, completing CTF challenges  
-- Writing detailed, step-by-step writeups with screenshots and code snippets  
-- Explaining how and why each attack works, and what I learned from it  
-- Building and experimenting with my own vulnerable lab environments  
-- Tracking my progress through GitHub repositories and personal notes 
-
----
-
 # 💻 Tech Stack:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Zerium-99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Zerium-99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zerium-99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 💻 What I'm Doing
+- Studying on platforms like TryHackMe and Hack The Box, completing CTF challenges  
+- Writing detailed, step-by-step writeups with screenshots and code snippets  
+- Explaining how and why each attack works, and what I learned from it  
+- Building and experimenting with my own vulnerable lab environments  
+- Tracking my progress through GitHub repositories and personal notes 
 
 ---
 
