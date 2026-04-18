@@ -4,6 +4,9 @@
 
 ###
 
+<img width="500" height="246" alt="image" src="https://github.com/user-attachments/assets/d84c3e90-6634-4857-b740-57530c0b08e1" />
+
+
 
 ## 🧠 About Me
 - I'm an **aspiring Red Teamer** passionate about **cybersecurity and offensive security**.  
