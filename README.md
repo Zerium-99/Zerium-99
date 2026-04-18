@@ -4,9 +4,9 @@
 
 ###
 
-![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvcjRoZzgyeTlrZnQwdGcxYjlmMWt3MmQ0eGpnYXkydmxpcGd3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5KGHdmmxHdwk/giphy.gif)
-
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvcjRoZzgyeTlrZnQwdGcxYjlmMWt3MmQ0eGpnYXkydmxpcGd3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5KGHdmmxHdwk/giphy.gif" />
+</p>
 
 ## 🧠 About Me
 - I'm an **aspiring Red Teamer** passionate about **cybersecurity and offensive security**.  
