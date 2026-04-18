@@ -5,7 +5,7 @@
 ###
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvcjRoZzgyeTlrZnQwdGcxYjlmMWt3MmQ0eGpnYXkydmxpcGd3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5KGHdmmxHdwk/giphy.gif" />
+  <img src="https://media1.tenor.com/m/srGnNtzIjeEAAAAd/jujufan-naruto.gif" />
 </p>
 
 ## 🧠 About Me
