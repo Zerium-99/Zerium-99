@@ -23,9 +23,11 @@
 # 💻 Tech Stack:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Zerium-99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Zerium-99&theme=dark&hide_border=false)<br/>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Zerium-99&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=Zerium-99&theme=dark&hide_border=false" />
+</p>
 ---
 
 ## 💻 What I'm Doing
