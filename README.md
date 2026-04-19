@@ -40,6 +40,12 @@
 ## 📂 Portfolio
 Here are my most succesfull projects:
 
+| Project Name           | Description                                                                                 | Link                                                                 |
+|------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| TryHackMe Writeups     | Fully documented CTF Challenges, explaining everything.                                     | [Open Project](https://github.com/Zerium-99/tryhackme-writeups)      |
+| Home Lab               | Custom vulnerable environment I built for practicing pentesting.                            | [Open Project](https://github.com/Zerium-99/My-Homelab)              |
+| Lithium                |  BeEF-XSS Tunneling automation tool via Ngrok                                               | [Open Project](https://github.com/Zerium-99/Lithium)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -47,9 +53,3 @@ Here are my most succesfull projects:
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
-| Project Name           | Description                                                                                 | Link                                                                 |
-|------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| TryHackMe Writeups     | Fully documented CTF Challenges, explaining everything.                                     | [Open Project](https://github.com/Zerium-99/tryhackme-writeups)      |
-| Home Lab               | Custom vulnerable environment I built for practicing pentesting.                            | [Open Project](https://github.com/Zerium-99/My-Homelab)              |
-| Lithium                |  BeEF-XSS Tunneling automation tool via Ngrok                                               | [Open Project](https://github.com/Zerium-99/Lithium)
