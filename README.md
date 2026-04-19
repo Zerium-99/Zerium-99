@@ -22,8 +22,10 @@
 
 ---
 
-# ⚡ Skills:
+## ⚡ Skills:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Linux](https://camo.githubusercontent.com/867c44b684c3eee0332cbcb89e759919a575fee441eb62f0a24bb8c78935ca2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465)
+
+
 # 📊 GitHub Stats:
 
 <p align="center">
