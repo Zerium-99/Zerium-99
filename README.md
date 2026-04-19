@@ -40,6 +40,14 @@
 ## 📂 Portfolio
 Here are my most succesfull projects:
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
 | Project Name           | Description                                                                                 | Link                                                                 |
 |------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | TryHackMe Writeups     | Fully documented CTF Challenges, explaining everything.                                     | [Open Project](https://github.com/Zerium-99/tryhackme-writeups)      |
