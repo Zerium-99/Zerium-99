@@ -10,7 +10,8 @@
 
 ## 🧠 About Me
 - I'm an **aspiring Red Teamer** passionate about **cybersecurity and offensive security**.  
-- I love **hands-on challenges** and pushing my skills by exploring real systems—no theory-only learning here.  
+- I love **hands-on challenges** and pushing my skills by exploring real systems—no theory-only learning here.
+- I'm a highschool student studying **Computer Science** and **Telecomunications**
 
 ---
 
