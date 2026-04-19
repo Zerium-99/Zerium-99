@@ -5,7 +5,7 @@
 ###
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2c/97/97/2c97975a458f0a2394c23ff57fff0da7.jpg" />
+  <img src="https://i.pinimg.com/originals/fd/2c/46/fd2c46965bcb176d216178e399f7961a.jpg" />
 </p>
 
 ## 🧠 About Me
