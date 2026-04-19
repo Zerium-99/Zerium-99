@@ -17,7 +17,8 @@
 
 ## 🎯 Goals
 - Build **advanced practical skills** in penetration testing  
-- Grow as a **cybersecurity professional** from a young age  
+- Grow as a **cybersecurity professional** from a young age
+- Work as a **Red Teamer**
 
 ---
 
